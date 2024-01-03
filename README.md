@@ -7,3 +7,4 @@ Throughout the project, I curated a diverse dataset of meat images and executed 
 Taking it a step further, I transformed the model into a user-friendly HTML website, ensuring seamless interaction for users. 💻🌐 My expertise in data preprocessing, model development, and web design converged to create a comprehensive solution for meat quality assessment.
 
 I am genuinely proud to have completed this challenging project and earned a certificate for my efforts. 🏆🚀 Sharing my joy and achievement with all of you! 🙌 #DeepLearning #MeatQuality #DataScience #AchievementUnlocked
+https://www.linkedin.com/in/minila-k-m-0b7199263/recent-activity/all/
